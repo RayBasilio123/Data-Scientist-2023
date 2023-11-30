@@ -35,7 +35,7 @@ Confira também minha lista de livros recomendados para estudos em Data Science:
 
 outros : 
 
-- [V](https://github.com/Saurav6789/Books-/tree/master)
+- [ + livros](https://github.com/Saurav6789/Books-/tree/master)
 
 
 
