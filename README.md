@@ -17,8 +17,16 @@ Bem-vindo ao repositório dos meus estudos em Data Science! Aqui você encontrar
 ### Livros Recomendados 📚
 
 Confira também minha lista de livros recomendados para estudos em Data Science:
+1. [Storytelling com Dados: um Guia Sobre Visualização de Dados Para Profissionais de Negócios](https://edisciplinas.usp.br/pluginfile.php/6585707/mod_resource/content/1/Cole%20Nussbaumer%20Knaflic%20%282017%29.%20Storytelling%20com%20Dados%20_%20um%20Guia%20Sobre%20Visualização%20de%20Dados%20Para%20Profissionais%20de%20Negócios.pdf)
 
-- [Livros Recomendados](https://github.com/Saurav6789/Books)
+2. [Data Science do Zero - Primeiras Regras](https://edisciplinas.usp.br/pluginfile.php/5742167/mod_resource/content/1/Data%20Science%20do%20zero%20-%20Primeiras%20regras.pdf)
+
+3. [Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow](Mãos à Obra Aprendizado de Máquina com Scikit-Learn & TensorFlow.pdf)
+
+outros livros : 
+
+- [Livros Recomendados](https://github.com/Saurav6789/Books-/tree/master)
+
 
 ### Sobre Mim
 
