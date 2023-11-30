@@ -2,7 +2,7 @@
 # Data Science Studies Repository
 <p align="center">
   
-  <img src="https://github.com/RayBasilio123/Data-Scientist-2023/assets/58826286/6c8e976e-a86d-480a-8bde-0574dca2e06b" width="900" height="400" >
+  <img src="https://github.com/RayBasilio123/Data-Scientist-2023/assets/58826286/6c8e976e-a86d-480a-8bde-0574dca2e06b" width="450" height="400" >
 
 </p>
 
