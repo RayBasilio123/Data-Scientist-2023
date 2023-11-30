@@ -14,6 +14,12 @@
 
 Bem-vindo ao repositório dos meus estudos em Data Science! Aqui você encontrará uma variedade de projetos, códigos e aprendizados relacionados ao fascinante mundo da ciência de dados.
 
+### Livros Recomendados 📚
+
+Confira também minha lista de livros recomendados para estudos em Data Science:
+
+- [Livros Recomendados](https://github.com/Saurav6789/Books)
+
 ### Sobre Mim
 
 Sou entusiasta de Data Science, apaixonado por explorar dados e descobrir insights valiosos. Este repositório reflete meu comprometimento com o aprimoramento constante, abrangendo tópicos como:
