@@ -33,9 +33,9 @@ Confira também minha lista de livros recomendados para estudos em Data Science:
 
 3. [Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow](https://www.amazon.com.br/M%C3%A3os-obra-aprendizado-scikit-learn-tensorflow/dp/8550803812)
 
-outros livros : 
+outros : 
 
-- [Livros Recomendados](https://github.com/Saurav6789/Books-/tree/master)
+- [V](https://github.com/Saurav6789/Books-/tree/master)
 
 
 
