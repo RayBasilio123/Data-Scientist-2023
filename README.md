@@ -51,7 +51,7 @@ outros :
   
 
 3. **Projeto C:**
-   - [IFood](https://github.com/RayBasilio123/Data-Scientist-2023/blob/main/projetos/iFood%20Data%20Analyst%20Case.pdf)
+   - [IFood](https://github.com/RayBasilio123/Data-Scientist-2023/tree/main/projetos/IFood)
    Em Construção... 🚧
 
 
