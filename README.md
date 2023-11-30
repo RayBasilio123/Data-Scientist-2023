@@ -35,7 +35,7 @@ Confira também minha lista de livros recomendados para estudos em Data Science:
 
 outros : 
 
-- [ https://www.bing.com/ck/a?!&&p=87f1f085c16f323cJmltdHM9MTcwMTMwMjQwMCZpZ3VpZD0zMzM1YTNkMC1hYmZiLTZjMWUtMDczNy1iMGNhYWE4MjZkZjcmaW5zaWQ9NTU0OA&ptn=3&ver=2&hsh=3&fclid=3335a3d0-abfb-6c1e-0737-b0caaa826df7&u=a1L2ltYWdlcy9zZWFyY2g_cT1lbW9qaSBkZSBtYWlzJkZPUk09SVFGUkJBJmlkPUQzMjk0ODg4RjUwRTI1QjEzMTRENjQ1NkEyNzFGMDUwODU5NTM1MkU&ntb=1 livros](https://github.com/Saurav6789/Books-/tree/master)
+- [ + livros](https://github.com/Saurav6789/Books-/tree/master)
 
 
 
