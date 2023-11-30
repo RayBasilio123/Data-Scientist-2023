@@ -21,7 +21,7 @@ Confira também minha lista de livros recomendados para estudos em Data Science:
 
 2. [Data Science do Zero - Primeiras Regras](https://edisciplinas.usp.br/pluginfile.php/5742167/mod_resource/content/1/Data%20Science%20do%20zero%20-%20Primeiras%20regras.pdf)
 
-3. [Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow](Mãos à Obra Aprendizado de Máquina com Scikit-Learn & TensorFlow.pdf)
+3. [Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow](https://www.amazon.com.br/M%C3%A3os-obra-aprendizado-scikit-learn-tensorflow/dp/8550803812)
 
 outros livros : 
 
