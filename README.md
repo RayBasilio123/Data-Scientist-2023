@@ -1,12 +1,14 @@
-# Data Science Studies Repository
+
 
 <p align="center">
+  # Data Science Studies Repository
   <img src="https://github.com/RayBasilio123/Data-Scientist-2023/assets/58826286/6c8e976e-a86d-480a-8bde-0574dca2e06b" width="600" height="600" >
 
 </p>
 
-## Descrição
+
 <p align="center">
+  ## Descrição
   <img src="https://github.com/RayBasilio123/Data-Scientist-2023/assets/58826286/26554054-5983-4e06-9a67-0a1d82795bb0" width="900" height="400">
 </p>
 
