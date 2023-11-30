@@ -1,8 +1,8 @@
 # Data Science Studies Repository
 
 <p align="center">
-  <img src="[imagem1.jpg](https://github.com/RayBasilio123/Data-Scientist-2023/assets/58826286/a4aa566b-f685-47cb-9441-d24a78e9d503)" width="200" height="200" alt="Descrição da imagem">
-  <img src="(https://github.com/RayBasilio123/Data-Scientist-2023/assets/58826286/9f503b5f-3390-4cd9-b9f3-773c24f4660a)" width="200" height="200" alt="Descrição da imagem">
+  <img src="https://github.com/RayBasilio123/Data-Scientist-2023/assets/58826286/6c8e976e-a86d-480a-8bde-0574dca2e06b" width="200" height="200" alt="Descrição da imagem">
+  <img src="https://github.com/RayBasilio123/Data-Scientist-2023/assets/58826286/26554054-5983-4e06-9a67-0a1d82795bb0" width="200" height="200" alt="Descrição da imagem">
 </p>
 
 ## Descrição
@@ -22,22 +22,17 @@ Sou entusiasta de Data Science, apaixonado por explorar dados e descobrir insigh
 ### Projetos Destacados
 
 1. **Projeto A:**
-   Descrição breve do projeto A.
    Em Construção... 🚧
 
-   ![Projeto A](projetoA.jpg)
 
 2. **Projeto B:**
-   Descrição breve do projeto B.
    Em Construção... 🚧
 
-   ![Projeto B](projetoB.jpg)
+  
 
 3. **Projeto C:**
-   Descrição breve do projeto C.
    Em Construção... 🚧
 
-   ![Projeto C](projetoC.jpg)
 
 ### Como Contribuir
 
@@ -45,4 +40,4 @@ Se você se interessa por Data Science ou tem sugestões para aprimorar meus est
 
 Obrigado por visitar meu repositório e compartilhar esta jornada de aprendizado em Data Science!
 
-**- Seu Nome** (ou nome de usuário)
+**- Ray da Silva Basilio** 
